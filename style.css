@@ -1,0 +1,22 @@
+body {
+    background: white;
+    color: black;
+    font-family: sans-serif;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+#content {
+    margin-bottom: 1.5em;
+}
+
+#footer {
+    border-top: thin solid black;
+    font-size: 80%;
+}
+
+h1 {
+    text-align: center;
+}
