@@ -9,8 +9,8 @@ This application determines whether a number is prime.
 Instructions
 ------------
 
-1. Copy all the files into a folder on your computer.
-2. Open _document.html_ in your web browser.
+1. Copy all the `.html`, `.css`, and `.js` files into a folder on your computer.
+2. Open `document.html` in your web browser.
 3. Type a number in the **Number** box.
 4. Click **Go**.
 
